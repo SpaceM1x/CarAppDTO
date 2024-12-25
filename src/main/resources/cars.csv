@@ -1,0 +1,101 @@
+id,brand,model,countryOrigin,countryCode
+1,Toyota,Corolla,Japan,JP
+2,Ford,Focus,USA,US
+3,Honda,Civic,Japan,JP
+4,Audi,A4,Germany,DE
+5,Toyota,Corolla,Japan,JP
+6,Chevrolet,Malibu,USA,US
+7,BMW,3 Series,Germany,DE
+8,Ford,Focus,USA,US
+9,Nissan,Altima,Japan,JP
+10,Toyota,RAV4,Japan,JP
+11,Volkswagen,Polo,Germany,DE
+12,Honda,Civic,Japan,JP
+13,Kia,Soul,South Korea,KR
+14,Audi,A4,Germany,DE
+15,BMW,3 Series,Germany,DE
+16,Tesla,Model 3,USA,US
+17,Ford,Focus,USA,US
+18,Hyundai,Elantra,South Korea,KR
+19,Tesla,Model 3,USA,US
+20,Subaru,Impreza,Japan,JP
+21,Mazda,3,Japan,JP
+22,Nissan,Altima,Japan,JP
+23,Chevrolet,Malibu,USA,US
+24,Honda,Civic,Japan,JP
+25,Volkswagen,Golf,Germany,DE
+26,Hyundai,Elantra,South Korea,KR
+27,Kia,Soul,South Korea,KR
+28,Toyota,Camry,Japan,JP
+29,Audi,A4,Germany,DE
+30,Mazda,3,Japan,JP
+31,Subaru,Forester,Japan,JP
+32,Subaru,Forester,Japan,JP
+33,BMW,3 Series,Germany,DE
+34,Peugeot,308,France,FR
+35,Toyota,RAV4,Japan,JP
+36,Chevrolet,Malibu,USA,US
+37,Lexus,RX,Japan,JP
+38,Honda,Civic,Japan,JP
+39,Ford,Mustang,USA,US
+40,Mazda,CX-5,Japan,JP
+41,Toyota,Sienna,Japan,JP
+42,Volkswagen,Polo,Germany,DE
+43,Dodge,Charger,USA,US
+44,Chevrolet,Tahoe,USA,US
+45,Nissan,Juke,Japan,JP
+46,Audi,A4,Germany,DE
+47,Hyundai,Tucson,South Korea,KR
+48,Fiat,500,Italy,IT
+49,Kia,Sorento,South Korea,KR
+50,Tesla,Model S,USA,US
+51,BMW,X5,Germany,DE
+52,Mercedes-Benz,C-Class,Germany,DE
+53,Peugeot,2008,France,FR
+54,Tesla,Model 3,USA,US
+55,Opel,Astra,Germany,DE
+56,Volkswagen,Golf,Germany,DE
+57,Honda,CR-V,Japan,JP
+58,Infiniti,Q50,Japan,JP
+59,Suzuki,Vitara,Japan,JP
+60,Hyundai,Sonata,South Korea,KR
+61,Land Rover,Discovery,UK,GB
+62,Subaru,Impreza,Japan,JP
+63,Jaguar,F-Type,UK,GB
+64,Mazda,CX-5,Japan,JP
+65,Honda,Fit,Japan,JP
+66,Audi,Q5,Germany,DE
+67,Renault,Clio,France,FR
+68,Porsche,Cayenne,Germany,DE
+69,Lexus,ES,Japan,JP
+70,Kia,Soul,South Korea,KR
+71,Suzuki,Swift,Japan,JP
+72,Nissan,Juke,Japan,JP
+73,Ford,Escape,USA,US
+74,Toyota,Highlander,Japan,JP
+75,BMW,X5,Germany,DE
+76,Opel,Corsa,Germany,DE
+77,Peugeot,2008,France,FR
+78,Mitsubishi,Outlander,Japan,JP
+79,Infiniti,Q50,Japan,JP
+80,Chrysler,300,USA,US
+81,Honda,HR-V,Japan,JP
+82,Lexus,ES,Japan,JP
+83,Mini,Cooper,UK,GB
+84,Audi,A3,Germany,DE
+85,Chrysler,300,USA,US
+86,Toyota,Sienna,Japan,JP
+87,Ford,Mustang,USA,US
+88,BMW,Z4,Germany,DE
+89,Mitsubishi,Outlander,Japan,JP
+90,Fiat,Panda,Italy,IT
+91,Dodge,Durango,USA,US
+92,Honda,Passport,Japan,JP
+93,Subaru,Crosstrek,Japan,JP
+94,Mercedes-Benz,GLE,Germany,DE
+95,Mazda,3,Japan,JP
+96,Toyota,Land Cruiser,Japan,JP
+97,Opel,Astra,Germany,DE
+98,Chevrolet,Tahoe,USA,US
+99,Ford,F-150,USA,US
+100,Nissan,Maxima,Japan,JP
